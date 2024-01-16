@@ -1,3 +1,3 @@
 TripFlix A simple Travel Agency Landing page
 Mobile Responsive
-Live site: 
+Live site: https://cozy-frangollo-18b3da.netlify.app
